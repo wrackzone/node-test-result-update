@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wrackzone/node-test-result-update#readme",
   "dependencies": {
-    "junit-xml-parser": "0.0.3"
+    "junit-xml-parser": "0.0.3",
+    "lodash": "^4.17.4"
   }
 }
