@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wrackzone/node-test-result-update/issues"
   },
-  "homepage": "https://github.com/wrackzone/node-test-result-update#readme"
+  "homepage": "https://github.com/wrackzone/node-test-result-update#readme",
+  "dependencies": {
+    "junit-xml-parser": "0.0.3"
+  }
 }
